@@ -212,3 +212,17 @@ data/raw/
 reports/figures/
 
 data/raw/
+
+
+# macOS
+.DS_Store
+
+# Virtual env
+venv/
+
+# Raw data
+data/raw/
+
+# Jupyter checkpoints
+notebooks/.ipynb_checkpoints/
+
